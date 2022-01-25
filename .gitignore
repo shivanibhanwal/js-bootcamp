@@ -38,3 +38,7 @@ build/Release
 
 # yarn v2
 .yarn/cache
+
+#Mac unwanted files
+.DS_Store
+public/.DS_Store
